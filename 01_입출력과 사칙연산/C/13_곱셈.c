@@ -6,5 +6,6 @@ int main(){
 	printf("%d\n", a * (b / 10 % 10));
 	printf("%d\n", a * (b / 100));
 	printf("%d\n", a * b);
+	
 	return 0;
 }
